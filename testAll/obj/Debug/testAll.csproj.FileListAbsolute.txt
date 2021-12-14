@@ -1,0 +1,11 @@
+E:\code\csharp\testAll\testAll\bin\Debug\testAll.exe.config
+E:\code\csharp\testAll\testAll\bin\Debug\testAll.exe
+E:\code\csharp\testAll\testAll\bin\Debug\testAll.pdb
+E:\code\csharp\testAll\testAll\obj\Debug\testAll.exe
+E:\code\csharp\testAll\testAll\obj\Debug\testAll.pdb
+E:\code\csharp\testAll\testAll\obj\Debug\testAll.csproj.CoreCompileInputs.cache
+E:\code\csharp\testAll\testAll\bin\Debug\HtmlAgilityPack.dll
+E:\code\csharp\testAll\testAll\bin\Debug\HtmlAgilityPack.pdb
+E:\code\csharp\testAll\testAll\bin\Debug\HtmlAgilityPack.xml
+E:\code\csharp\testAll\testAll\obj\Debug\testAll.csproj.CopyComplete
+E:\code\csharp\testAll\testAll\obj\Debug\testAll.csprojAssemblyReference.cache
